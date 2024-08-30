@@ -2,4 +2,4 @@
 N_ring_dataset/
 single_ring_dataset/
 legacy_notebooks/
-*.png
+ring_generator_dataset/
